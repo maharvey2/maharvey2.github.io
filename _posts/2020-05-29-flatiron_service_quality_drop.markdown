@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Flatiron service quality drop"
-date:       2020-05-29 15:05:05 +0000
+date:       2020-05-29 11:05:06 -0400
 permalink:  flatiron_service_quality_drop
 ---
 
